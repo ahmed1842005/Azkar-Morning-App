@@ -1,6 +1,6 @@
- Morning Azkar Web Application
+Azkar Web Application
 
-A simple and interactive Islamic Morning Azkar web application built using HTML, CSS, and JavaScript.
+A simple and interactive Islamic Azkar web application built using HTML, CSS, and JavaScript.
 
 This project provides a clean and user-friendly interface for reading and completing daily morning adhkar with interactive counters. Each dhikr includes a counter that decreases with every click until completion. Once all adhkar are completed, a congratulatory message appears.
 
