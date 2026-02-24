@@ -1,0 +1,43 @@
+  body {
+      font-family: Arial, sans-serif;
+      background: #f0f2f5;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      flex-direction: column;
+  }
+
+  h1 {
+      margin-bottom: 40px;
+      color: #333;
+  }
+
+  .buttons {
+      display: flex;
+      gap: 30px;
+  }
+
+  button {
+      padding: 20px 40px;
+      font-size: 18px;
+      font-weight: bold;
+      border: none;
+      border-radius: 12px;
+      cursor: pointer;
+      transition: all 0.3s;
+      color: #fff;
+  }
+
+  button:hover {
+      transform: scale(1.1);
+  }
+
+  .morning,
+  .evening,
+  .tasbeeh,
+  .prayer,
+  .prophet-duas {
+      background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+  }
