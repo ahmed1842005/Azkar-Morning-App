@@ -23,6 +23,7 @@ h1 {
     grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
     gap: 20px;
     width: 100%;
+    max-width: 333px;
 }
 
 button {
@@ -48,4 +49,5 @@ button:hover {
 .prophet-duas {
     background: linear-gradient(135deg, #ff9a9e, #fad0c4);
 }
+
 
