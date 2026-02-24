@@ -28,8 +28,6 @@ JavaScript (Vanilla JS)
 
  Live Demo
 
- Click Here to View the Project
-
  Project Purpose
 
 This project was built as a front-end practice project to improve DOM manipulation skills, event handling, UI styling, and interactive web behavior using pure JavaScript.
